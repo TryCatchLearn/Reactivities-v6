@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="CloudinaryDotNet" Version="1.14.0" />
+    <PackageReference Include="SendGrid" Version="9.22.0" />
   </ItemGroup>
 
   <PropertyGroup>
