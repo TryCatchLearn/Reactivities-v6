@@ -5,12 +5,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="CloudinaryDotNet" Version="1.14.0" />
-    <PackageReference Include="SendGrid" Version="9.22.0" />
+    <PackageReference Include="CloudinaryDotNet" Version="1.15.2" />
+    <PackageReference Include="SendGrid" Version="9.24.4" />
   </ItemGroup>
 
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
 
 </Project>
